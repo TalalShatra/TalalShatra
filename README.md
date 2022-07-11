@@ -1,7 +1,4 @@
 ### Hey there 👋
-Hello world
-
-Visitor count
 
 
 <!--
