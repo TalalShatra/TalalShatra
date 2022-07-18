@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://gallery.yopriceville.com/Free-Clipart-Pictures/Ribbons-and-Banners-PNG/Blue_and_Gold_Banner_PNG_Clipart)">
+<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png]">
 
 
 
